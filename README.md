@@ -39,10 +39,10 @@ Express - Heroku - JavaScript - db.json - fs module - HTML Routes - API Routes -
 ```
 
 - Below are screenshots of the deployed application:
-  ![Express Note Taker Screenshot: HTML](./public/assets/images/expressNoteTaker_html_screenshot.png)
+  ![Express Note Taker Screenshot: HTML](./public/assets/images/note-taker-ss2.png)
 
 - Screenshot of deployed app in Heroku:
-  ![Express Note Taker Screenshot: NOTES](./public/assets/images/NoteTaker_heroku.png)
+  ![Express Note Taker Screenshot: NOTES](./public/assets/images/note-taket-ss.png)
 
 Ensured the following app functionality:
 
